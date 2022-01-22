@@ -41,7 +41,5 @@ public class PagamentoComBoleto extends Pagamento {
 	public void setDataPagameto(Date dataPagameto) {
 		this.dataPagameto = dataPagameto;
 	}
-	
-	
 
 }
